@@ -22,3 +22,7 @@ Training and Testing the model based on the preprocessed data
 Predicted the accuray of each model.
 selected which machine learning model i am going to use for the predection.
 crop prediction is done
+
+Week 3:
+Improved the accuracy of the model .
+Tested the prediction again.
